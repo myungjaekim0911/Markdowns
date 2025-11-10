@@ -123,6 +123,10 @@ tmi) "시간:분:초:프레임" 맨 오른쪽 부분 밀리초 아니고 프레�
 
 #### 화면 왼쪽 위 "내보내기" 클릭! or <code>Ctrl + M</code>
 
+파일 이름과 저장 위치 정하기  
+사전 설정: Match Source - Adaptive High Bitrate  
+포맷: H.264  
+
 ```plaintext
 실습: 영상 내보내고 확인하기! 수고했어요 :)
 ```
