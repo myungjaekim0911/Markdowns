@@ -26,6 +26,8 @@
 
 #### 소스 패널 활용하기
 
+![소스 패널](./images/1.png)
+
 - <code>I</code> In점 설정     
 - <code>O</code> Out점 설정      
 
