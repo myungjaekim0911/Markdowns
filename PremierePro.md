@@ -1,24 +1,41 @@
 # 프리미어 프로 101
 
-## 1. 시작하기
-### 프로젝트 만들기
+## 1. 시작하기  
+
+### 1.1 프로젝트 만들기  
+
 - 프로젝트 이름 정하기
 - 파일 가져오기
 - 시퀀스 만들기
 
-### UI에 익숙해지기
+### 1.2 UI에 익숙해지기  
+
 - 프로젝트 패널
 - 소스 패널
 - 타임라인 패널
-- 툴 바
 - 프로그램 패널
+- 툴 바
 - 이펙트 패널
 - 이펙트 컨트롤 패널
 
-## 2. 컷편집
-### 영상 및 오디오 자르고 붙이기
+## 2. 컷편집  
+
+### 2.1 자료 미리보기 및 삽입하기  
+
+##### 소스 패널 활용하기
+
+- <code>I</code> In점 설정     
+- <code>O</code> Out점 설정      
+
+- <code>Ctrl + Shift + I</code> In점 지우기     
+- <code>Ctrl + Shift + O</code> Out점 지우기    
+
+##### 삽입 및 덮어쓰기로 영상을 타임라인에 넣기
+
+### 2.2 영상 및 오디오 자르고 붙이기  
+
 - 자르기 <code>Ctrl + K</code>
-- 양 끝을 잡아서 잘라내기
+- 양 끝을 잡아서 드래그하여 잘라내기/늘이기
 - 자석 기능
 - 잔물결 삭제
 
@@ -51,10 +68,10 @@
 ## 10. 영상 내보내기
 - 영상 범위 선택하기 - In점, Out점으로 범위 정하기  
 
-In점 설정     <code>I</code>  
-Out점 설정    <code>O</code>  
+<code>I</code> In점 설정     
+<code>O</code> Out점 설정      
 
-In점 지우기   <code>Ctrl + Shift + I</code>  
-Out점 지우기  <code>Ctrl + Shift + O</code>  
+<code>Ctrl + Shift + I</code> In점 지우기     
+<code>Ctrl + Shift + O</code> Out점 지우기    
 
 - 화면 왼쪽 위 "내보내기" 클릭! or <code>Ctrl + M</code>
