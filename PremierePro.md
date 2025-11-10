@@ -10,7 +10,7 @@
 
 ### 1.2 UI에 익숙해지기  
 
-![UI 구성요소](./images/2.png)
+![UI 구성요소](./images/1.png)
 
 1. 프로젝트 패널
 2. 소스 패널
@@ -26,7 +26,7 @@
 
 #### 소스 패널 활용하기
 
-![소스 패널](./images/1.png)
+![소스 패널](./images/2.png)
 
 - <code>I</code> In점 설정     
 - <code>O</code> Out점 설정      
